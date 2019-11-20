@@ -12,61 +12,71 @@ Cette collocation fait référence à l'attitude de vigilance permanente et de r
 
 [Cliquer ici pour plus d'informations](https://blogs.mediapart.fr/jean-louis-legalery/blog/201108/le-concept-de-watchdog)
 
+### Commentaires
+
+Si vous avez des commentaires, contactez nous à l'adresse: watchdog-vailhauques@gmail.com
+
 ### Projet de modification du PLU
 
-La Mairie de Vailhauques a mis en disposition 20 documents avec plus de XXX pages en total à rédiger pour comprendre les modifications proposés par le nouveau PLU. Si vous voulez les consulter, ils se trouvent [ici](http://www.ville-vailhauques.fr).
+Une enquête publique concernant la modification de PLU est ouverte du 18 novembre au 18 décembre 2019. Donnez votre avis en mairie. La commissaire enquêtrice sera sur place le lundi 2 décembre de 14h à 17h, et le mercredi 18 décembre de 14h à 17h. 
 
-Si vous n'avez pas le temps de lire les 20 documents, voici notre decryption.
+La Mairie de Vailhauquès a mis à disposition 20 documents expliquant les modifications proposées du Plan Local d'urbanisme (PLU). Si vous voulez les consulter, ils se trouvent [ici](http://www.ville-vailhauques.fr).
 
-Pour information, une petition a ete cree sur [change.org](https://www.change.org/p/monsieur-le-maire-de-vailhauquès-contre-la-modification-de-plu-n-1-à-vailhauquès?recruiter=643620389&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition).
+Si vous n'avez pas le temps de lire les 20 documents, voici notre décryptage.
 
-#### Augmentation du nombre des logements
+#### Augmentation du nombre de logements
 
 
 ```sh
-Un premier point aborde par la proposition de modification du PLU concerne l'augmentation du nombre des logements. **Les documents proposent une augmentation de 500 logements** (Reference: http://www.ville-vailhauques.fr). 
+Un premier point abordé par la proposition de modification du PLU concerne l'augmentation du nombre des logements. **Les documents proposent une augmentation de 500 logements** (Reference: http://www.ville-vailhauques.fr). 
 ```
 
 <u>Decryptage:</u>
 
-Nous savons qu'en moyenne, chaque logement sur Vailhauques a 2.7 habitants (Reference: http://www.ville-data.com). Donc nous pouvons facilement conclure que la modification du PLU propose **une augmentation de 1350 habitants.**
+Il y a confusion entre logements et habitants:
+
+Nous savons qu'en moyenne, chaque foyer sur Vailhauquès compte 2.7 habitants (Reference: http://www.ville-data.com). La modification du PLU propose donc **une augmentation de 1350 habitants.**
 
 
-La population actuelle de Vailhauques est de 2710 habitants (Reference: http://www.ville-data.com). L'ajout de 1350 habitants elevera la population a 4074 habitants en 2030 (Figure 1). **Ceci represente une augmentation de 50% de la population par rapport a 2020.**
+La population actuelle de Vailhauquès est de 2710 habitants (Reference: http://www.ville-data.com). L'arrivée de 1350 habitants amènerait la population à 4074 habitants en 2030 (Figure 1). **Ceci représenterait une augmentation de 50% de la population par rapport a 2020.**
 
-Par contre, si Vailhauques suivait le taux d'augmentation de la population moyenne de l'Herault (1.6%, Reference: http://www.ville-data.com), nous arriverons a 3167 habitants en 2030 (Figure 1).
+En revanche, si Vailhauquès suit le taux d'augmentation de la population moyenne de l'Herault (1.6/an, Reference: http://www.ville-data.com), nous arriverons a 3167 habitants en 2030 (Figure 1). La modification de PLU propose un taux moyen d'augmentation de la population plus similaire à celui de Montarnaud que celui de l'Hérault. 
 
-Si nous calculons le taux d'augmentation de la population depuis l'annee 2000, le PLU modifie estime une augmentation total de plus de 120% par rapport a l'annee 2000, un taux similaire a celui de Montarnaud (140%), et nottament superieur a celui de l'Herault (50%). Ces resultats sont synthetises dans la Figure 1.
+Ces résultats sont synthétisés dans la Figure 1.
 
 <img src="index.assets/image-20191117212300324.png" alt="image-20191117212300324" style="zoom:80%;" />
 
-*Figure 1. Percentage d'augmentation de la population de Vailhauques depuis 1999. Reference: http://www.ville-data.com.*
+*Figure 1. Pourcentage d'augmentation de la population de Vailhauquès depuis 1999. Reference: http://www.ville-data.com.*
 
 
 
 ```bash
-Le document I-PADD.pdf dans http://www.ville-vailhauques.fr nous explique que le taux d'augmentation de la population sera de 1.8% par an. 
+Le document I-PADD.pdf dans http://www.ville-vailhauques.fr nous explique que le taux d'augmentation de la population est de 1.8% par an. 
 ```
 
-Si le taux d'augmentation etais de 1.8% par an, et en considerant que la population de Vailhauques a l'heure actuelle est de 2700 habitants, nous attendrons une augmentation de ~400 habitants dans 10 ans. 
+Avec un taux d'augmentation de la population de 1.8% par an, et une population de 2700 habitants, nous nous attendons à une augmentation de ~400 habitants d'ici 10 ans. 
 
-Comme il y a ~2.7 habitants par foyer, une augmentation de 400 habitants representerait: $ 400 / 2.7 = 148 $  foyers. **Ceci est inconsistant avec les 500 foyers proposes par la modification du PLU.**
+Comme il y a ~2.7 habitants par foyer, une augmentation de 400 habitants représenterait: 400 / 2.7 = 148 logements. **Ce chiffre est très différent des 500 logements proposés par la modification du PLU.**
 
-Si maintenant, nous croyons les 500 nouveaux foyers proposes par les textes de modification du PLU, nous pouvons estimer le *vrai taux d'augmentation de la population proposes dans ces textes*, qui est de **4.7%/an, similaire a celui de Montarnaud **(4.3%/an, voir Figure 2), **et loin du taux moyenne de la region** (1.6%/an).
+Une création de 500 nouveaux logements induit un*vrai taux d'augmentation de la population de **4.7%/an, similaire à celui de Montarnaud **(4.3%/an, voir Figure 2), **et loin du taux moyen de la region** (1.6%/an).
 
 <img src="index.assets/image-20191117212323279.png" alt="image-20191117212323279" style="zoom:80%;" />
 
-*Figure 2. Percentage annuel d'augmentation de la population de Vailhauques  depuis 2010. Reference: http://www.ville-data.com* 
+*Figure 2. Pourcentage annuel d'augmentation de la population de Vailhauquès depuis 2010. Reference: http://www.ville-data.com* 
 
 #### Densification
 
-Le projet de modification du PLU propose une densification importante de la commune de Vailhauques.
+Le projet de modification du PLU propose une densification importante de la commune de Vailhauquès.
 
-Dans les projets futurs des construction dans Vailhauques, nous pouvons remarquer le projet porté par 'GGL Amenagement' pour construire 33 maisons, un parking, et 1 bâtiment collectif R+2 de 29 logements dans le quartier de l'Eglise. Le permis de construction a été déposé par GGL le 31 Mai 2019. Si vous voulez le voir, regardez la Figure 4 ci-dessous.
+La densification de la population est recommandée par le code de l’urbanisme. Habituellement la population dense est associée à la ville, et c’est en très grande partie pour échapper à cela que les personnes se tournent vers la campagne et les villages. Cette densification recommandée est à l’exact opposé de ce que les gens recherchent dans les villages.
+
+Parmi les projets futurs de construction à Vailhauquès, notons le projet porté par 'GGL Amenagement' de construire 33 maisons, un parking, et 1 bâtiment collectif R+2 de 29 logements dans le quartier de l'Eglise. Le permis de construction a été déposé par GGL le 31 Mai 2019 (voir Figure 4 ci-dessous).
+
+Le choix a été fait d’implanter des quartiers denses dans les dents creuses du village, et lever les options de construction sur des terrains en direction de Montarnaud, ne comportant aucun élément naturel ou de patrimoine à préserver, contairement au quartier de l’église, avec ses pâturages historiques en arrière-plan. Ces nouvelles constructions dans les dents creuses au milieu d’anciens quartiers résidentiels risquent d'avoir un impact sur le cadre de vie des villageois établis depuis des décennies, de compliquer la circulation (étranglement entre deux bâtiments au niveau de la mairie), et sont situés dans des zones d’aléas de mouvements de terrains (argile). Au rythme de croissance du village, et de la région en général, protéger ces espaces c’est garantir un maintient d’espaces verts pour les générations futures.
 
 ![image-20191117212355018](index.assets/image-20191117212355018.png)
 
-*Figure 3. Le quartier de l'Eglise ce dimache 17 Novembre 2019. Le projet de GGL avec 33 maisons, un parking, et un batiment de 3 etages avec 29 logements.*
+*Figure 3. Le quartier de l'Eglise ce dimache 17 Novembre 2019. Le projet de GGL avec 33 maisons, un parking, et un batiment de 2 etages avec 29 logements.*
 
 
 
@@ -74,3 +84,6 @@ Dans les projets futurs des construction dans Vailhauques, nous pouvons remarque
 
 *Figure 4. Permis de construction pour un R+2 depose par GGL dans le site: http://france-cadastre.fr*
 
+
+
+Le site sera mis à jour régulièrement au fur et à mesure que les informations nous parviennent (plan de construction, projet détaillé, plus de décryptage).
