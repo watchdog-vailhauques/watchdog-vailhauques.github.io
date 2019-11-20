@@ -14,7 +14,7 @@ Cette collocation fait référence à l'attitude de vigilance permanente et de r
 
 ### Commentaires
 
-Si vous avez des commentaires, contactez nous à l'adresse: watchdog-vailhauques@gmail.com
+Si vous avez des commentaires, contactez nous à l'adresse: watchdog.vailhauques@gmail.com
 
 ### Projet de modification du PLU
 
@@ -58,7 +58,7 @@ Avec un taux d'augmentation de la population de 1.8% par an, et une population d
 
 Comme il y a ~2.7 habitants par foyer, une augmentation de 400 habitants représenterait: 400 / 2.7 = 148 logements. **Ce chiffre est très différent des 500 logements proposés par la modification du PLU.**
 
-Une création de 500 nouveaux logements induit un*vrai taux d'augmentation de la population de **4.7%/an, similaire à celui de Montarnaud **(4.3%/an, voir Figure 2), **et loin du taux moyen de la region** (1.6%/an).
+Une création de 500 nouveaux logements induit un *vrai* taux d'augmentation de la population de **4.7%/an, similaire à celui de Montarnaud **(4.3%/an, voir Figure 2), **et loin du taux moyen de la region** (1.6%/an).
 
 <img src="index.assets/image-20191117212323279.png" alt="image-20191117212323279" style="zoom:80%;" />
 
@@ -74,9 +74,11 @@ Parmi les projets futurs de construction à Vailhauquès, notons le projet port�
 
 Le choix a été fait d’implanter des quartiers denses dans les dents creuses du village, et lever les options de construction sur des terrains en direction de Montarnaud, ne comportant aucun élément naturel ou de patrimoine à préserver, contairement au quartier de l’église, avec ses pâturages historiques en arrière-plan. Ces nouvelles constructions dans les dents creuses au milieu d’anciens quartiers résidentiels risquent d'avoir un impact sur le cadre de vie des villageois établis depuis des décennies, de compliquer la circulation (étranglement entre deux bâtiments au niveau de la mairie), et sont situés dans des zones d’aléas de mouvements de terrains (argile). Au rythme de croissance du village, et de la région en général, protéger ces espaces c’est garantir un maintient d’espaces verts pour les générations futures.
 
+
+
 ![image-20191117212355018](index.assets/image-20191117212355018.png)
 
-*Figure 3. Le quartier de l'Eglise ce dimache 17 Novembre 2019. Le projet de GGL avec 33 maisons, un parking, et un batiment de 2 etages avec 29 logements.*
+*Figure 3. (haut) Le quartier de l'Eglise ce dimache 17 Novembre 2019. (bas) Photo montage du projet potentiel.*
 
 
 
