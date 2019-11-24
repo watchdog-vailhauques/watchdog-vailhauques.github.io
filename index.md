@@ -10,11 +10,15 @@ Definition du watchdog:
 Cette collocation fait référence à l'attitude de vigilance permanente et de recherche des faits réels. Elle s'inscrit dans une échelle de valeurs où la vérité est l'affaire de tous, et ne saurait être l'apanage d'un groupe, d'une faction, ou, pire encore, d'un seul homme.
 ```
 
-[Cliquer ici pour plus d'informations](https://blogs.mediapart.fr/jean-louis-legalery/blog/201108/le-concept-de-watchdog)
+[Cliquer ici pour plus d'informations sur un watchdog](https://blogs.mediapart.fr/jean-louis-legalery/blog/201108/le-concept-de-watchdog)
 
 ### Commentaires
 
 Si vous avez des commentaires, contactez nous à l'adresse: watchdog.vailhauques@gmail.com
+
+Le site sera mis à jour régulièrement au fur et à mesure que les informations nous parviennent (plan de construction, projet détaillé, plus de décryptage).
+
+[TOC]
 
 ### Projet de modification du PLU
 
@@ -24,7 +28,7 @@ La Mairie de Vailhauquès a mis à disposition 20 documents expliquant les modif
 
 Si vous n'avez pas le temps de lire les 20 documents, voici notre décryptage.
 
-#### Augmentation du nombre de logements
+#### Decryptage 1: Augmentation du nombre de logements [19/11/2019]
 
 
 ```sh
@@ -64,7 +68,7 @@ Une création de 500 nouveaux logements induit un *vrai* taux d'augmentation de 
 
 *Figure 2. Pourcentage annuel d'augmentation de la population de Vailhauquès depuis 2010. Reference: http://www.ville-data.com* 
 
-#### Densification
+#### Decryptage 2: Densification [19/11/2019]
 
 Le projet de modification du PLU propose une densification importante de la commune de Vailhauquès.
 
@@ -88,4 +92,21 @@ Le choix a été fait d’implanter des quartiers denses dans les dents creuses 
 
 
 
-Le site sera mis à jour régulièrement au fur et à mesure que les informations nous parviennent (plan de construction, projet détaillé, plus de décryptage).
+#### Decryptage 3: Bassin de retention d'eau [23/11/2019]
+
+Nous avons reussi aussi a apprendre que le bâtiment sur la fourche aura un taux de 80% d’occupation du terrain, et un seul bassin de retention pour ce bâtiment et les 33 maisons du claux (normalement il faut un bassin par projet). L’imperméabilisation du sol sera énorme; sachant que ce bâtiment sera en contrebas de la colline où il y aura 33 maisons et que la route est remplie d’eau et de matériaux de ravinement en cas de pluie, cela ne présage rien de bon pour les abords du feu rouge actuel.
+
+#### Decryptage 4: Plans et changements pour le quartier 'Claux'  [23/11/2019]
+
+Vous pouvez trouver le document de modifications de PLU fournis par la commissaire enquêtrice [ici](./DocumentsPLU_commissaireEnquetrice.pdf). 
+
+Sur ce document sont surlignes les passages concernant le quartiers 'claux' (église) et la 'sous mathe'. On ramarque: 
+
+1. ***augmentation de la hauteur des maisons*** de plein pied, 
+2. ***empiètement plus grand vers la colline***, 
+3. ***suppression d’espaces verts***, 
+4. ***passage de 20% à 80 % d’occupation des sols***, 
+5. ***déviation de la départementale*** et 
+6. ***mention explicite a deux reprises de modifications pour accommoder la réalisation du projet***. 
+
+
