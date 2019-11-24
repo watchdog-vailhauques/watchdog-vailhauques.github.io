@@ -102,13 +102,16 @@ Nous avons reussi aussi a apprendre que le bâtiment sur la fourche aura un taux
 
 Vous pouvez trouver le document de modifications de PLU fournis par la commissaire enquêtrice [ici](./DocumentsPLU_commissaireEnquetrice.pdf). 
 
-Sur ce document sont surlignes les passages concernant le quartiers 'claux' (église) et la 'sous mathe'. On ramarque: 
+Sur ce document sont surlignes les passages concernant le quartiers 'claux' (église) et la 'sous mathe'. Regardez les plans du quartier dans la *Figure 5*. On ramarque: 
 
-1. ***augmentation de la hauteur des maisons*** de plein pied, 
+1. ***augmentation de la hauteur des maisons*** de plein pied, 5.
 2. ***empiètement plus grand vers la colline***, 
 3. ***suppression d’espaces verts***, 
 4. ***passage de 20% à 80 % d’occupation des sols***, 
 5. ***déviation de la départementale*** et 
 6. ***mention explicite a deux reprises de modifications pour accommoder la réalisation du projet***. 
 
+![](index.assets/Plans_Claux.png)
+
+*Figure 5. Plans pour le quartier 'Claux'*
 
