@@ -26,6 +26,8 @@ Une enquête publique concernant la modification de PLU est ouverte du 18 novemb
 
 La Mairie de Vailhauquès a mis à disposition 20 documents expliquant les modifications proposées du Plan Local d'urbanisme (PLU). Si vous voulez les consulter, ils se trouvent [ici](http://www.ville-vailhauques.fr).
 
+Vous pouvez trouver le document de modifications de PLU fournis par la commissaire enquêtrice [ici](./DocumentsPLU_commissaireEnquetrice.pdf). 
+
 Si vous n'avez pas le temps de lire les 20 documents, voici notre décryptage.
 
 #### Decryptage 1: Augmentation du nombre de logements [19/11/2019]
